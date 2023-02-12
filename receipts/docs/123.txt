@@ -1,0 +1,4 @@
+Naproxen;15 mg;1*5;5;50;250
+Select Drug;500;1*6;4;;0
+Naproxen;500;1*6;4;50;200
+Dual Cotexin;152;1*5;5;120;600
