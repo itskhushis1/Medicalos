@@ -1,6 +1,7 @@
 
 #MEDICALOS
 
+
 The project entitled "Medicalos" is a Pharmacy Management System.
 
 -Developed for established Medical store in the city. 
